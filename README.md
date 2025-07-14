@@ -1,4 +1,4 @@
-# 💱 Conversor de Monedas (15 monedas)
+# 💱 Conversor de Monedas (03 monedas)
 
 Este es un proyecto simple de conversor de monedas creado con HTML, CSS y JavaScript. Utiliza un archivo local `tasas.json` para realizar conversiones entre 3 monedas internacionales.
 
